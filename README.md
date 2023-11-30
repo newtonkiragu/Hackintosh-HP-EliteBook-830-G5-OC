@@ -1,11 +1,7 @@
 # Hackintosh-HP-Elitebook-830-G5
 Hackintosh EFI for Hp EliteBook 830-G5 OpenCore 1.2.1
 
-MacOs Sonoma 14.0
-
-
-  <A href="sonoma.png" target=_blank>Mac OS Ventura 14.0</A>
-  
+MacOs Sonoma 14.0  
   ![Screenshot](sonoma.png)
 
 
